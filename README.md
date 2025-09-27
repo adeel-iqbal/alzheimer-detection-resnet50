@@ -129,9 +129,9 @@ def predict_alzheimer(image_path):
 alzheimer-detection-resnet50/
 │
 ├── app.py                                    # Gradio web application
-├── alzheimer-detection-resnet50.ipynb       # Complete training pipeline
+├── alzheimer_detection_resnet50.ipynb       # Complete training pipeline
 ├── best_resnet_model.h5                     # Trained model weights
-├── alzheimer-resnet50.keras                 # Alternative model format
+├── alzheimer_resnet50.keras                 # Alternative model format
 ├── requirements.txt                          # Python dependencies
 ├── image/
 │   └── preview.png                          # Application preview
