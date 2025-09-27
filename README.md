@@ -4,7 +4,7 @@ Deep learning system for automated Alzheimer's disease detection from brain MRI 
 
 ## Live Demo
 
-🚀 **Try the live demo:** https://huggingface.co/spaces/demo-link
+🚀 **Try the live demo:** https://huggingface.co/spaces/adeeliqbal/alzheimer-detection-resnet50
 
 ![App Preview](image/preview.png)
 
